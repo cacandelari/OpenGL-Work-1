@@ -1,3 +1,6 @@
+Open GL cube shading program for a computer graphics course at the University of Houston
+Colin Candelari
+
 # HW3
 
 Coded and compiled in Visual Studio 2017.
